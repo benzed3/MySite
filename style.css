@@ -28,3 +28,8 @@ p {
     margin: 0 auto;
     width: 800px;
 }
+
+p {
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Tilt Neon', sans-serif;
+}
