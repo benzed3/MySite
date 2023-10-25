@@ -22,3 +22,9 @@ p {
     font-size: 17px;
     margin-top: 5px;
 }
+
+/*Main Page*/
+#content {
+    margin: 0 auto;
+    width: 800px;
+}
